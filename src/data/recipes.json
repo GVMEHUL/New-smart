@@ -1,0 +1,431 @@
+[
+  {
+    "id": "r001",
+    "title": "Tomato & Basil Pasta",
+    "cuisine": "Italian",
+    "servings": 2,
+    "difficulty": "Easy",
+    "time_minutes": 20,
+    "ingredients": [
+      {"name": "pasta", "qty": "200g"},
+      {"name": "tomato", "qty": "2"},
+      {"name": "basil", "qty": "handful"},
+      {"name": "olive oil", "qty": "2 tbsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Boil pasta until al dente.",
+      "Chop tomatoes and sauté in olive oil.",
+      "Mix pasta with tomatoes and basil. Serve."
+    ],
+    "nutrition": {"calories": 450, "protein_g": 12, "fat_g": 14},
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": "r002",
+    "title": "Grilled Chicken Salad",
+    "cuisine": "American",
+    "servings": 1,
+    "difficulty": "Medium",
+    "time_minutes": 25,
+    "ingredients": [
+      {"name": "chicken breast", "qty": "150g"},
+      {"name": "lettuce", "qty": "1 cup"},
+      {"name": "tomato", "qty": "1"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "lemon juice", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Grill chicken breast until cooked.",
+      "Chop lettuce and tomato.",
+      "Toss with olive oil and lemon juice.",
+      "Add grilled chicken on top."
+    ],
+    "nutrition": {"calories": 350, "protein_g": 30, "fat_g": 10},
+    "dietary": ["gluten-free"]
+  },
+  {
+    "id": "r003",
+    "title": "Vegetable Fried Rice",
+    "cuisine": "Chinese",
+    "servings": 2,
+    "difficulty": "Easy",
+    "time_minutes": 25,
+    "ingredients": [
+      {"name": "rice", "qty": "1 cup"},
+      {"name": "carrot", "qty": "1"},
+      {"name": "capsicum", "qty": "1"},
+      {"name": "soy sauce", "qty": "1 tbsp"},
+      {"name": "oil", "qty": "2 tbsp"}
+    ],
+    "steps": [
+      "Cook rice and keep aside.",
+      "Stir-fry chopped vegetables in oil.",
+      "Add rice and soy sauce, mix well."
+    ],
+    "nutrition": {"calories": 320, "protein_g": 6, "fat_g": 8},
+    "dietary": ["vegan"]
+  },
+  {
+    "id": "r004",
+    "title": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "servings": 3,
+    "difficulty": "Medium",
+    "time_minutes": 35,
+    "ingredients": [
+      {"name": "paneer", "qty": "200g"},
+      {"name": "tomato", "qty": "3"},
+      {"name": "butter", "qty": "2 tbsp"},
+      {"name": "cream", "qty": "2 tbsp"},
+      {"name": "spices", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Blend tomatoes to make puree.",
+      "Cook with butter and spices.",
+      "Add paneer cubes and cream, simmer 5 mins."
+    ],
+    "nutrition": {"calories": 520, "protein_g": 18, "fat_g": 32},
+    "dietary": ["vegetarian", "gluten-free"]
+  },
+  {
+    "id": "r005",
+    "title": "Omelette",
+    "cuisine": "French",
+    "servings": 1,
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "ingredients": [
+      {"name": "egg", "qty": "2"},
+      {"name": "milk", "qty": "2 tbsp"},
+      {"name": "butter", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"},
+      {"name": "pepper", "qty": "to taste"}
+    ],
+    "steps": [
+      "Beat eggs with milk, salt, and pepper.",
+      "Melt butter in pan, pour mixture.",
+      "Cook both sides until fluffy."
+    ],
+    "nutrition": {"calories": 210, "protein_g": 13, "fat_g": 15},
+    "dietary": []
+  },
+  {
+    "id": "r006",
+    "title": "Veg Sandwich",
+    "cuisine": "Continental",
+    "servings": 1,
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "ingredients": [
+      {"name": "bread", "qty": "2 slices"},
+      {"name": "tomato", "qty": "1"},
+      {"name": "cucumber", "qty": "1"},
+      {"name": "butter", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "pinch"}
+    ],
+    "steps": [
+      "Spread butter on bread.",
+      "Add sliced tomato and cucumber.",
+      "Sprinkle salt, close sandwich, and serve."
+    ],
+    "nutrition": {"calories": 180, "protein_g": 5, "fat_g": 6},
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": "r007",
+    "title": "Fruit Smoothie",
+    "cuisine": "Global",
+    "servings": 1,
+    "difficulty": "Easy",
+    "time_minutes": 5,
+    "ingredients": [
+      {"name": "banana", "qty": "1"},
+      {"name": "milk", "qty": "1 cup"},
+      {"name": "honey", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Blend banana, milk, and honey together.",
+      "Serve chilled."
+    ],
+    "nutrition": {"calories": 160, "protein_g": 4, "fat_g": 2},
+    "dietary": ["vegetarian", "gluten-free"]
+  },
+  {
+    "id": "r008",
+    "title": "Poha",
+    "cuisine": "Indian",
+    "servings": 2,
+    "difficulty": "Easy",
+    "time_minutes": 15,
+    "ingredients": [
+      {"name": "flattened rice", "qty": "1 cup"},
+      {"name": "onion", "qty": "1"},
+      {"name": "mustard seeds", "qty": "1 tsp"},
+      {"name": "oil", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Soak poha for 5 minutes and drain.",
+      "Fry mustard seeds and onions in oil.",
+      "Add poha and salt, mix well."
+    ],
+    "nutrition": {"calories": 250, "protein_g": 5, "fat_g": 8},
+    "dietary": ["vegan", "gluten-free"]
+  },
+  {
+    "id": "r009",
+    "title": "Pancakes",
+    "cuisine": "American",
+    "servings": 2,
+    "difficulty": "Easy",
+    "time_minutes": 20,
+    "ingredients": [
+      {"name": "flour", "qty": "1 cup"},
+      {"name": "milk", "qty": "1 cup"},
+      {"name": "egg", "qty": "1"},
+      {"name": "sugar", "qty": "2 tbsp"},
+      {"name": "butter", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Mix flour, milk, egg, and sugar to form batter.",
+      "Pour on pan, cook both sides.",
+      "Serve with butter or syrup."
+    ],
+    "nutrition": {"calories": 290, "protein_g": 8, "fat_g": 9},
+    "dietary": []
+  },
+  {
+    "id": "r010",
+    "title": "Masala Dosa",
+    "cuisine": "Indian",
+    "servings": 2,
+    "difficulty": "Medium",
+    "time_minutes": 30,
+    "ingredients": [
+      {"name": "dosa batter", "qty": "1 cup"},
+      {"name": "potato", "qty": "2"},
+      {"name": "onion", "qty": "1"},
+      {"name": "oil", "qty": "1 tbsp"},
+      {"name": "spices", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Prepare dosa on hot tawa.",
+      "Make potato filling with onions and spices.",
+      "Place filling inside dosa and serve."
+    ],
+    "nutrition": {"calories": 400, "protein_g": 9, "fat_g": 10},
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": "r011",
+    "title": "Caesar Salad",
+    "cuisine": "Italian",
+    "servings": 2,
+    "difficulty": "Easy",
+    "time_minutes": 15,
+    "ingredients": [
+      {"name": "lettuce", "qty": "2 cups"},
+      {"name": "croutons", "qty": "1 cup"},
+      {"name": "cheese", "qty": "2 tbsp"},
+      {"name": "olive oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Mix lettuce, croutons, and cheese.",
+      "Add dressing made with olive oil.",
+      "Toss and serve."
+    ],
+    "nutrition": {"calories": 180, "protein_g": 6, "fat_g": 10},
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": "r012",
+    "title": "Egg Curry",
+    "cuisine": "Indian",
+    "servings": 2,
+    "difficulty": "Medium",
+    "time_minutes": 25,
+    "ingredients": [
+      {"name": "egg", "qty": "3"},
+      {"name": "onion", "qty": "1"},
+      {"name": "tomato", "qty": "2"},
+      {"name": "oil", "qty": "1 tbsp"},
+      {"name": "spices", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Boil eggs and peel.",
+      "Fry onion and tomato with spices.",
+      "Add eggs and cook for 5 minutes."
+    ],
+    "nutrition": {"calories": 280, "protein_g": 14, "fat_g": 15},
+    "dietary": ["gluten-free"]
+  },
+  {
+    "id": "r013",
+    "title": "Mushroom Soup",
+    "cuisine": "Continental",
+    "servings": 2,
+    "difficulty": "Easy",
+    "time_minutes": 20,
+    "ingredients": [
+      {"name": "mushroom", "qty": "1 cup"},
+      {"name": "milk", "qty": "1 cup"},
+      {"name": "butter", "qty": "1 tbsp"},
+      {"name": "flour", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Sauté mushrooms in butter.",
+      "Add flour and milk to make creamy soup."
+    ],
+    "nutrition": {"calories": 200, "protein_g": 6, "fat_g": 9},
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": "r014",
+    "title": "Dal Tadka",
+    "cuisine": "Indian",
+    "servings": 3,
+    "difficulty": "Easy",
+    "time_minutes": 30,
+    "ingredients": [
+      {"name": "toor dal", "qty": "1 cup"},
+      {"name": "onion", "qty": "1"},
+      {"name": "tomato", "qty": "1"},
+      {"name": "ghee", "qty": "1 tbsp"},
+      {"name": "spices", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Boil dal until soft.",
+      "Prepare tadka with ghee, onion, and spices.",
+      "Mix tadka into dal and serve."
+    ],
+    "nutrition": {"calories": 300, "protein_g": 14, "fat_g": 10},
+    "dietary": ["vegetarian", "gluten-free"]
+  },
+  {
+    "id": "r015",
+    "title": "Aloo Paratha",
+    "cuisine": "Indian",
+    "servings": 2,
+    "difficulty": "Medium",
+    "time_minutes": 25,
+    "ingredients": [
+      {"name": "wheat flour", "qty": "1 cup"},
+      {"name": "potato", "qty": "2"},
+      {"name": "spices", "qty": "1 tsp"},
+      {"name": "ghee", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Mash potatoes and mix with spices.",
+      "Stuff inside dough and roll paratha.",
+      "Cook with ghee on tawa."
+    ],
+    "nutrition": {"calories": 400, "protein_g": 8, "fat_g": 12},
+    "dietary": ["vegetarian"]
+  },
+  {
+    "id": "r016",
+    "title": "Chicken Biryani",
+    "cuisine": "Indian",
+    "servings": 3,
+    "difficulty": "Hard",
+    "time_minutes": 45,
+    "ingredients": [
+      {"name": "chicken", "qty": "300g"},
+      {"name": "rice", "qty": "1.5 cups"},
+      {"name": "onion", "qty": "2"},
+      {"name": "spices", "qty": "2 tsp"},
+      {"name": "oil", "qty": "2 tbsp"}
+    ],
+    "steps": [
+      "Cook chicken with spices and onion.",
+      "Layer cooked chicken with rice.",
+      "Simmer until flavors blend."
+    ],
+    "nutrition": {"calories": 550, "protein_g": 25, "fat_g": 20},
+    "dietary": []
+  },
+  {
+    "id": "r017",
+    "title": "Veg Pulao",
+    "cuisine": "Indian",
+    "servings": 3,
+    "difficulty": "Easy",
+    "time_minutes": 25,
+    "ingredients": [
+      {"name": "rice", "qty": "1 cup"},
+      {"name": "carrot", "qty": "1"},
+      {"name": "peas", "qty": "1/2 cup"},
+      {"name": "spices", "qty": "1 tsp"},
+      {"name": "oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Sauté vegetables with spices.",
+      "Add rice and water, cook until done."
+    ],
+    "nutrition": {"calories": 320, "protein_g": 7, "fat_g": 8},
+    "dietary": ["vegetarian", "gluten-free"]
+  },
+  {
+    "id": "r018",
+    "title": "Chocolate Milkshake",
+    "cuisine": "Global",
+    "servings": 1,
+    "difficulty": "Easy",
+    "time_minutes": 5,
+    "ingredients": [
+      {"name": "milk", "qty": "1 cup"},
+      {"name": "cocoa powder", "qty": "2 tbsp"},
+      {"name": "sugar", "qty": "1 tbsp"},
+      {"name": "ice cream", "qty": "1 scoop"}
+    ],
+    "steps": [
+      "Blend milk, cocoa powder, sugar, and ice cream.",
+      "Serve chilled."
+    ],
+    "nutrition": {"calories": 250, "protein_g": 6, "fat_g": 8},
+    "dietary": ["vegetarian", "gluten-free"]
+  },
+  {
+    "id": "r019",
+    "title": "Fish Curry",
+    "cuisine": "Indian",
+    "servings": 3,
+    "difficulty": "Medium",
+    "time_minutes": 35,
+    "ingredients": [
+      {"name": "fish", "qty": "300g"},
+      {"name": "onion", "qty": "1"},
+      {"name": "tomato", "qty": "2"},
+      {"name": "spices", "qty": "1 tsp"},
+      {"name": "oil", "qty": "2 tbsp"}
+    ],
+    "steps": [
+      "Fry onions and tomatoes with spices.",
+      "Add fish pieces and cook until tender."
+    ],
+    "nutrition": {"calories": 420, "protein_g": 28, "fat_g": 15},
+    "dietary": ["gluten-free"]
+  },
+  {
+    "id": "r020",
+    "title": "Veg Burger",
+    "cuisine": "American",
+    "servings": 1,
+    "difficulty": "Medium",
+    "time_minutes": 20,
+    "ingredients": [
+      {"name": "burger bun", "qty": "1"},
+      {"name": "potato patty", "qty": "1"},
+      {"name": "lettuce", "qty": "1 leaf"},
+      {"name": "tomato", "qty": "1 slice"},
+      {"name": "cheese", "qty": "1 slice"}
+    ],
+    "steps": [
+      "Grill patty and toast bun.",
+      "Assemble burger with veggies and cheese."
+    ],
+    "nutrition": {"calories": 380, "protein_g": 12, "fat_g": 15},
+    "dietary": ["vegetarian"]
+  }
+]
